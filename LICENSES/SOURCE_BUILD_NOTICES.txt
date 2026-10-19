@@ -1,0 +1,12 @@
+SchoolRecordRedactor v4.0.1 - open source notices (SOURCE build)
+Copyright (C) 2026 소느님. License: AGPL-3.0-only.
+No warranty. You may redistribute and modify this application under AGPL-3.0.
+The full AGPL-3.0 license is contained in the root LICENSE file.
+PyMuPDF / MuPDF: Copyright Artifex Software, Inc., AGPLv3 or commercial.
+Python: Copyright Python Software Foundation, PSF License.
+Tcl / Tk: copyright holders are listed in the upstream license.terms.
+PyInstaller bootloader: GPL-2.0-or-later with Bootloader Exception.
+In a packaged Windows EXE, the exact copied third-party license files
+are collected by license_assets.py into the LICENSES folder.
+Download the same-version source ZIP at the publisher's download location.
+SchoolRecordRedactor is NOT an official Ministry of Education / NEIS program.

@@ -1,0 +1,2 @@
+PyMuPDF==1.26.7
+PyInstaller>=6.10,<7
